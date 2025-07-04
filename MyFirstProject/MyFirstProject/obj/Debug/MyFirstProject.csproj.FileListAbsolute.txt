@@ -1,8 +1,0 @@
-C:\A - PROJECTS\C#\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
-C:\A - PROJECTS\C#\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
-C:\A - PROJECTS\C#\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
-C:\A - PROJECTS\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
-C:\A - PROJECTS\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
-C:\A - PROJECTS\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
-C:\A - PROJECTS\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
-C:\A - PROJECTS\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe.config
