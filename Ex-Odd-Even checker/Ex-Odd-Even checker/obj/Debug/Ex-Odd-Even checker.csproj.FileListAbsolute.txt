@@ -1,0 +1,8 @@
+C:\A - PROJECTS\C#\Ex-Odd-Even checker\Ex-Odd-Even checker\obj\Debug\Ex-Odd-Even checker.csproj.AssemblyReference.cache
+C:\A - PROJECTS\C#\Ex-Odd-Even checker\Ex-Odd-Even checker\obj\Debug\Ex-Odd-Even checker.csproj.CoreCompileInputs.cache
+C:\A - PROJECTS\C#\Ex-Odd-Even checker\Ex-Odd-Even checker\bin\Debug\Ex-Odd-Even checker.exe.config
+C:\A - PROJECTS\C#\Ex-Odd-Even checker\Ex-Odd-Even checker\bin\Debug\Ex-Odd-Even checker.exe
+C:\A - PROJECTS\C#\Ex-Odd-Even checker\Ex-Odd-Even checker\bin\Debug\Ex-Odd-Even checker.pdb
+C:\A - PROJECTS\C#\Ex-Odd-Even checker\Ex-Odd-Even checker\obj\Debug\Ex-Odd-Even checker.exe
+C:\A - PROJECTS\C#\Ex-Odd-Even checker\Ex-Odd-Even checker\obj\Debug\Ex-Odd-Even checker.pdb
+C:\A - PROJECTS\C#\Ex-Odd-Even checker\Ex-Odd-Even checker\obj\Debug\Ex-Odd-Even checker.exe.config
