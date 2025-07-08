@@ -1,0 +1,8 @@
+C:\AA - GITHUB\ASP.NET-Core-Basics\ConditionalOperator-NumericFormatting\ConditionalOperator-NumericFormatting\bin\Debug\ConditionalOperator-NumericFormatting.exe.config
+C:\AA - GITHUB\ASP.NET-Core-Basics\ConditionalOperator-NumericFormatting\ConditionalOperator-NumericFormatting\bin\Debug\ConditionalOperator-NumericFormatting.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\ConditionalOperator-NumericFormatting\ConditionalOperator-NumericFormatting\bin\Debug\ConditionalOperator-NumericFormatting.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\ConditionalOperator-NumericFormatting\ConditionalOperator-NumericFormatting\obj\Debug\ConditionalOperator-NumericFormatting.csproj.AssemblyReference.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\ConditionalOperator-NumericFormatting\ConditionalOperator-NumericFormatting\obj\Debug\ConditionalOperator-NumericFormatting.csproj.CoreCompileInputs.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\ConditionalOperator-NumericFormatting\ConditionalOperator-NumericFormatting\obj\Debug\ConditionalOperator-NumericFormatting.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\ConditionalOperator-NumericFormatting\ConditionalOperator-NumericFormatting\obj\Debug\ConditionalOperator-NumericFormatting.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\ConditionalOperator-NumericFormatting\ConditionalOperator-NumericFormatting\obj\Debug\ConditionalOperator-NumericFormatting.exe.config
