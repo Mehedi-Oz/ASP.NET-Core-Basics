@@ -1,0 +1,8 @@
+C:\AA - GITHUB\ASP.NET-Core-Basics\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\AA - GITHUB\ASP.NET-Core-Basics\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\TryParse\TryParse\obj\Debug\TryParse.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\TryParse\TryParse\obj\Debug\TryParse.exe.config
