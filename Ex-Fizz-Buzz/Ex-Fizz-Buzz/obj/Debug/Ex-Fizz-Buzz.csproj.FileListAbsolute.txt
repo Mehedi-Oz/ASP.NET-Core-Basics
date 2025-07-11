@@ -1,0 +1,8 @@
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Fizz-Buzz\Ex-Fizz-Buzz\obj\Debug\Ex-Fizz-Buzz.csproj.AssemblyReference.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Fizz-Buzz\Ex-Fizz-Buzz\obj\Debug\Ex-Fizz-Buzz.csproj.CoreCompileInputs.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Fizz-Buzz\Ex-Fizz-Buzz\bin\Debug\Ex-Fizz-Buzz.exe.config
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Fizz-Buzz\Ex-Fizz-Buzz\bin\Debug\Ex-Fizz-Buzz.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Fizz-Buzz\Ex-Fizz-Buzz\bin\Debug\Ex-Fizz-Buzz.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Fizz-Buzz\Ex-Fizz-Buzz\obj\Debug\Ex-Fizz-Buzz.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Fizz-Buzz\Ex-Fizz-Buzz\obj\Debug\Ex-Fizz-Buzz.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Fizz-Buzz\Ex-Fizz-Buzz\obj\Debug\Ex-Fizz-Buzz.exe.config

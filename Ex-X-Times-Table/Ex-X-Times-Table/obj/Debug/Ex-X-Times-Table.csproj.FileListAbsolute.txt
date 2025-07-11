@@ -1,0 +1,8 @@
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-X-Times-Table\Ex-X-Times-Table\bin\Debug\Ex-X-Times-Table.exe.config
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-X-Times-Table\Ex-X-Times-Table\bin\Debug\Ex-X-Times-Table.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-X-Times-Table\Ex-X-Times-Table\bin\Debug\Ex-X-Times-Table.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-X-Times-Table\Ex-X-Times-Table\obj\Debug\Ex-X-Times-Table.csproj.AssemblyReference.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-X-Times-Table\Ex-X-Times-Table\obj\Debug\Ex-X-Times-Table.csproj.CoreCompileInputs.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-X-Times-Table\Ex-X-Times-Table\obj\Debug\Ex-X-Times-Table.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-X-Times-Table\Ex-X-Times-Table\obj\Debug\Ex-X-Times-Table.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-X-Times-Table\Ex-X-Times-Table\obj\Debug\Ex-X-Times-Table.exe.config

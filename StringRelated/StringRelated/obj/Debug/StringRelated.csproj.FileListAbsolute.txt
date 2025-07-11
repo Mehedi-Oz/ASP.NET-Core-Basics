@@ -1,0 +1,8 @@
+C:\AA - GITHUB\ASP.NET-Core-Basics\StringRelated\StringRelated\bin\Debug\StringRelated.exe.config
+C:\AA - GITHUB\ASP.NET-Core-Basics\StringRelated\StringRelated\bin\Debug\StringRelated.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\StringRelated\StringRelated\bin\Debug\StringRelated.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\StringRelated\StringRelated\obj\Debug\StringRelated.csproj.AssemblyReference.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\StringRelated\StringRelated\obj\Debug\StringRelated.csproj.CoreCompileInputs.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\StringRelated\StringRelated\obj\Debug\StringRelated.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\StringRelated\StringRelated\obj\Debug\StringRelated.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\StringRelated\StringRelated\obj\Debug\StringRelated.exe.config
