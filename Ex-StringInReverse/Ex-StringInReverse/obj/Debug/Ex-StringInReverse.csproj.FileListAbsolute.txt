@@ -1,0 +1,8 @@
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-StringInReverse\Ex-StringInReverse\bin\Debug\Ex-StringInReverse.exe.config
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-StringInReverse\Ex-StringInReverse\bin\Debug\Ex-StringInReverse.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-StringInReverse\Ex-StringInReverse\bin\Debug\Ex-StringInReverse.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-StringInReverse\Ex-StringInReverse\obj\Debug\Ex-StringInReverse.csproj.AssemblyReference.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-StringInReverse\Ex-StringInReverse\obj\Debug\Ex-StringInReverse.csproj.CoreCompileInputs.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-StringInReverse\Ex-StringInReverse\obj\Debug\Ex-StringInReverse.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-StringInReverse\Ex-StringInReverse\obj\Debug\Ex-StringInReverse.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-StringInReverse\Ex-StringInReverse\obj\Debug\Ex-StringInReverse.exe.config
