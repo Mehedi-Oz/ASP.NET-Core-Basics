@@ -13,22 +13,46 @@ namespace Arrays
         {
             int[] numbers = new int[5];
 
-            for (int i = 0; i < numbers.Length; i++)
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    Console.Write("Enter a number: ");
+            //    numbers[i] = Convert.ToInt32(Console.ReadLine());
+            //}
+
+            //Console.Write("\nNumbers Array: ");
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    Console.Write($"{numbers[i]} ");
+            //}
+
+            //Console.Write("\nNumbers Array: ");
+            //foreach (int num in numbers)
+            //{
+            //    Console.Write($"{num} ");
+            //}
+
+
+            //Triangle Exercise
+
+            const int angleCount = 3;
+            int[] angleArray = new int[angleCount];
+            int angleSum = 0;
+
+            for (int i = 0; i < angleCount; i++)
             {
-                Console.Write("Enter a number: ");
-                numbers[i] = Convert.ToInt32(Console.ReadLine());
+                Console.Write($"Enter Angle {i + 1}: ");
+                angleArray[i] = Convert.ToInt32(Console.ReadLine());
+
+                angleSum += angleArray[i];
             }
 
-            Console.Write("\nNumbers Array: ");
-            for (int i = 0; i < numbers.Length; i++)
+            if (angleSum == 180)
             {
-                Console.Write($"{numbers[i]} ");
+                Console.WriteLine("Vaild!");
             }
-
-            Console.Write("\nNumbers Array: ");
-            foreach (int num in numbers)
+            else
             {
-                Console.Write($"{num} ");
+                Console.WriteLine("Invaild!");
             }
 
         }
