@@ -1,0 +1,8 @@
+C:\AA - GITHUB\ASP.NET-Core-Basics\Array-2\Array-2\bin\Debug\Array-2.exe.config
+C:\AA - GITHUB\ASP.NET-Core-Basics\Array-2\Array-2\bin\Debug\Array-2.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Array-2\Array-2\bin\Debug\Array-2.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\Array-2\Array-2\obj\Debug\Array-2.csproj.AssemblyReference.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Array-2\Array-2\obj\Debug\Array-2.csproj.CoreCompileInputs.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Array-2\Array-2\obj\Debug\Array-2.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Array-2\Array-2\obj\Debug\Array-2.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\Array-2\Array-2\obj\Debug\Array-2.exe.config
