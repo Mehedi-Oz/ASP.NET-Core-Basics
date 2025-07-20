@@ -14,9 +14,9 @@ namespace Dictionary
 
             Dictionary<int, string> names = new Dictionary<int, string>()
             {
-                { 1, "Muhammad"},
-                { 2, "Mehedi"},
-                { 3, "Hasan"}
+                { 34, "Muhammad"},
+                { 63, "Mehedi"},
+                { 234, "Hasan"}
             };
 
             //names.Add(1, "Muhammad");
@@ -27,6 +27,44 @@ namespace Dictionary
             {
                 Console.Write($"{name} ");
             }
+
+            Console.WriteLine("\n");
+
+            for (int i = 0; i < names.Count; i++)
+            {
+                KeyValuePair<int, string> pair = names.ElementAt(i);
+                Console.Write($"{pair.Key} - {pair.Value} ");
+            }
+
+            Console.WriteLine("\n");
+
+            foreach (KeyValuePair<int, string> item in names)
+            {
+                Console.Write($"{item.Key} - {item.Value} ");
+            }
+
+            Dictionary<string, string> teachers = new Dictionary<string, string>()
+            {
+                { "CSE", "Hasan"},
+                { "EEE", "Maha" }
+            };
+
+            Console.WriteLine("\n");
+
+            //Console.WriteLine(teacher["CSE"]);
+
+            if (teachers.TryGetValue("CSE", out string teacher))
+            {
+                Console.WriteLine(teacher);
+            }
+            else
+            {
+                Console.WriteLine("Not found!");
+            }
+
+            Console.WriteLine("\n");
+
+
         }
     }
 }
