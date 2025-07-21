@@ -64,7 +64,21 @@ namespace Dictionary
 
             Console.WriteLine("\n");
 
+            teachers["CSE"] = "Ok";
 
+            foreach (var x in teachers)
+            {
+                Console.Write($"{x} ");
+            }
+
+            teachers.Remove("EEE");
+
+            Console.WriteLine();
+
+            foreach (var x in teachers)
+            {
+                Console.Write($"{x} ");
+            }
         }
     }
 }
