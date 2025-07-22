@@ -79,6 +79,8 @@ namespace Dictionary
             {
                 Console.Write($"{x} ");
             }
+
+
         }
     }
 }
