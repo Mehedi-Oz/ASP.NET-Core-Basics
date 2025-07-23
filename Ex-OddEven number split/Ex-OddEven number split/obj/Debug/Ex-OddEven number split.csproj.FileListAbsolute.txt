@@ -1,0 +1,8 @@
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-OddEven number split\Ex-OddEven number split\bin\Debug\Ex-OddEven number split.exe.config
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-OddEven number split\Ex-OddEven number split\bin\Debug\Ex-OddEven number split.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-OddEven number split\Ex-OddEven number split\bin\Debug\Ex-OddEven number split.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-OddEven number split\Ex-OddEven number split\obj\Debug\Ex-OddEven number split.csproj.AssemblyReference.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-OddEven number split\Ex-OddEven number split\obj\Debug\Ex-OddEven number split.csproj.CoreCompileInputs.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-OddEven number split\Ex-OddEven number split\obj\Debug\Ex-OddEven number split.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-OddEven number split\Ex-OddEven number split\obj\Debug\Ex-OddEven number split.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-OddEven number split\Ex-OddEven number split\obj\Debug\Ex-OddEven number split.exe.config
