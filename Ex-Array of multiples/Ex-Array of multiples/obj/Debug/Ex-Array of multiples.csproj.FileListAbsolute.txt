@@ -1,0 +1,8 @@
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Array of multiples\Ex-Array of multiples\bin\Debug\Ex-Array of multiples.exe.config
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Array of multiples\Ex-Array of multiples\bin\Debug\Ex-Array of multiples.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Array of multiples\Ex-Array of multiples\bin\Debug\Ex-Array of multiples.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Array of multiples\Ex-Array of multiples\obj\Debug\Ex-Array of multiples.csproj.AssemblyReference.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Array of multiples\Ex-Array of multiples\obj\Debug\Ex-Array of multiples.csproj.CoreCompileInputs.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Array of multiples\Ex-Array of multiples\obj\Debug\Ex-Array of multiples.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Array of multiples\Ex-Array of multiples\obj\Debug\Ex-Array of multiples.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\Ex-Array of multiples\Ex-Array of multiples\obj\Debug\Ex-Array of multiples.exe.config
