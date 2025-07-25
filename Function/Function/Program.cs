@@ -10,6 +10,8 @@ namespace Function
     {
         static void Main(string[] args)
         {
+
+            /* Functions */
         }
     }
 }
