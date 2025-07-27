@@ -1,0 +1,7 @@
+C:\AA - GITHUB\ASP.NET-Core-Basics\Function\Function\bin\Debug\Function.exe.config
+C:\AA - GITHUB\ASP.NET-Core-Basics\Function\Function\bin\Debug\Function.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Function\Function\bin\Debug\Function.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\Function\Function\obj\Debug\Function.csproj.AssemblyReference.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Function\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\Function\Function\obj\Debug\Function.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\Function\Function\obj\Debug\Function.pdb

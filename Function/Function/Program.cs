@@ -12,6 +12,13 @@ namespace Function
         {
 
             /* Functions */
+
+            WelcomeMessage();
+        }
+
+        static void WelcomeMessage()
+        {
+            Console.WriteLine("Hello World!");
         }
     }
 }
