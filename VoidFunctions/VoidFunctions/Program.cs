@@ -10,9 +10,18 @@ namespace VoidFunctions
     {
         static void Main(string[] args)
         {
-            if (int.TryParse("123", out int result))
+            CreateAndPrintArray();
+
+            Console.ReadLine();
+        }
+
+        static void CreateAndPrintArray()
+        {
+            int[] numbers = new int[3] { 0, 1, 2 };
+
+            foreach (var num in numbers)
             {
-                Console.WriteLine(result);
+                Console.WriteLine(num);
             }
         }
     }

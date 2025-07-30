@@ -1,0 +1,7 @@
+C:\AA - GITHUB\ASP.NET-Core-Basics\VoidFunctions\VoidFunctions\bin\Debug\VoidFunctions.exe.config
+C:\AA - GITHUB\ASP.NET-Core-Basics\VoidFunctions\VoidFunctions\bin\Debug\VoidFunctions.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\VoidFunctions\VoidFunctions\bin\Debug\VoidFunctions.pdb
+C:\AA - GITHUB\ASP.NET-Core-Basics\VoidFunctions\VoidFunctions\obj\Debug\VoidFunctions.csproj.AssemblyReference.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\VoidFunctions\VoidFunctions\obj\Debug\VoidFunctions.csproj.CoreCompileInputs.cache
+C:\AA - GITHUB\ASP.NET-Core-Basics\VoidFunctions\VoidFunctions\obj\Debug\VoidFunctions.exe
+C:\AA - GITHUB\ASP.NET-Core-Basics\VoidFunctions\VoidFunctions\obj\Debug\VoidFunctions.pdb
