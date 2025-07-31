@@ -11,8 +11,6 @@ namespace VoidFunctions
         static void Main(string[] args)
         {
             CreateAndPrintArray();
-
-            Console.ReadLine();
         }
 
         static void CreateAndPrintArray()
